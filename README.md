@@ -4,7 +4,6 @@ This repository contains the code and analysis for my final project on single-ce
 
 ---
 
-## Author
 
 Anuradha Basyal  
 Boston University  
@@ -36,7 +35,6 @@ Required packages (install using CRAN, Bioconductor, or GitHub as appropriate):
 - Bioconductor: `scDblFinder`, `SingleR`, `slingshot`, `DropletUtils`, `ComplexHeatmap`, `gplots`
 - GitHub: `CellChat`
 
-See the [Installation chunk](#) in the code for automated installation.
 
 ---
 
@@ -98,28 +96,6 @@ See the [Installation chunk](#) in the code for automated installation.
 
 ---
 
-## How to Use
-
-1. Clone the repository.
-2. Install required R packages.
-3. Place raw data files in the `file/` directory.
-4. Run analysis scripts in order (see script headers for workflow).
-5. Output figures and tables will be saved in the `results/` directory.
-
----
-
-## Suggested Images for README
-
-- Violin plots for QC metrics (nFeature_RNA, nCount_RNA, percent.mt)
-- UMAPs before and after Harmony integration (by sample, by cluster)
-- Heatmap of top marker genes per cluster
-- Violin plots for marker genes in largest clusters
-- UMAP with manual cell type labels
-- Pseudotime trajectory colored on UMAP
-- Bar plots and heatmaps of cell type composition
-
----
-
 ## References
 
 - Bondoc, A. D. et al. Cancer Res. 81, 1234–1247 (2021).
@@ -132,11 +108,3 @@ See the [Installation chunk](#) in the code for automated installation.
 - Sharma, P. et al. Nat. Med. 27(10), 1848-1856 (2021).
 
 ---
-
-## License
-
-[Specify your license here, e.g., MIT License]
-
----
-
-*For questions or feedback, please contact Anuradha Basyal.*
