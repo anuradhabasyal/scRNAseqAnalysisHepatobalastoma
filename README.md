@@ -7,7 +7,7 @@ This repository contains the code and analysis for my final project on single-ce
 
 Anuradha Basyal  
 Boston University  
-Final Project for BF591, Spring 2025
+Final Project for BF528, Spring 2025
 
 ---
 
